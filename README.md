@@ -2,7 +2,8 @@
 
 ## Yeonsoo's 흔적 😶‍🌫️🦉
 
-🤺 I’m currently learning ***ML*** and **DL**
+🤺 I’m currently learning **ML** and **DL**
+📫 How to reach me: [Nothon]()
 <br>
 
 ### 파이썬 시작하기 - 클래스
