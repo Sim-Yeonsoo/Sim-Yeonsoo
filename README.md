@@ -3,6 +3,7 @@
 ## Yeonsoo's 흔적 😶‍🌫️🦉
 
 🤺 I’m currently learning **ML** and **DL**
+<br>
 📫 How to reach me: [Nothon]()
 <br>
 
