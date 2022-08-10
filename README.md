@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 ## Yeonsoo's 흔적 😶‍🌫️🦉
-
 🤺 I’m currently learning **ML** and **DL**
 <br>
-📫 How to reach me: [Nothon]()
+📫 How to reach me: [Notion]()
+<br>
+
 <br>
 
 ### 파이썬 시작하기 - 클래스
