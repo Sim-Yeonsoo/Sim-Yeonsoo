@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 ### 파이썬 시작하기 - 클래스
-내용 : 파이썬 왕초보를 위한 파이썬 기본 수업
-해당 저장소로 [이동하기]
+- 🌱 내용 : 파이썬 왕초보를 위한 파이썬 기본 수업
+- 🔭 해당 저장소로 [이동하기]
 
 ### 머신러닝 클래스
-내용 : 머신러닝 수업
-해당 저장소로 [이동하기](https://github.com/Sim-Yeonsoo/ML_LIB_CLASS)
+- 🌱 내용 : 머신러닝 수업
+- 🔭 해당 저장소로 [이동하기](https://github.com/Sim-Yeonsoo/ML_LIB_CLASS)
 
 ### 데이터 분석해 보기
-내용 : 데이터 분석
-해당 저장소로 [이동하기](https://github.com/Sim-Yeonsoo/MyDataAnalysis)
+- 🌱 내용 : 데이터 분석
+- 🔭 해당 저장소로 [이동하기](https://github.com/Sim-Yeonsoo/MyDataAnalysis)
 
 <!--
 **Sim-Yeonsoo/Sim-Yeonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
