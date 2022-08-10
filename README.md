@@ -2,6 +2,7 @@
 
 ## Yeonsoo's 흔적 😶‍🌫️🦉
 <br>
+🤺 I’m currently learning **ML** and **DL**
 
 ### 파이썬 시작하기 - 클래스
 - 🌱 내용 : 파이썬 왕초보를 위한 파이썬 기본 수업
