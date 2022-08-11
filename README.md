@@ -20,6 +20,10 @@
 - 🌱 내용 : 데이터 분석
 - 🔭 해당 저장소로 [이동하기](https://github.com/Sim-Yeonsoo/MyDataAnalysis)
 
+### 객체 검출 
+- 🌱 내용 : 객체 검출 프로젝트 스터디
+- 🔭 해당 저장소로 [이동하기](https://github.com/Sim-Yeonsoo/ObjectDetection_Study)
+
 
 ### 매일 매일의 일정 및 스터디
 - 🌱 내용 : 일정 관리
